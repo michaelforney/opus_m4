@@ -1,0 +1,3 @@
+[submodule "coreboot"]
+	path = coreboot
+	url = git://github.com/michaelforney/coreboot.git
